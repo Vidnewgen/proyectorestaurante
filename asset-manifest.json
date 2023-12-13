@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/proyectorestaurante/static/css/main.41a7a8e0.css",
+    "main.js": "/proyectorestaurante/static/js/main.11aa692d.js",
+    "static/js/787.520c3517.chunk.js": "/proyectorestaurante/static/js/787.520c3517.chunk.js",
+    "static/media/pl1.jpg": "/proyectorestaurante/static/media/pl1.828ef2eeebd7b2a7b5aa.jpg",
+    "static/media/re2.jpg": "/proyectorestaurante/static/media/re2.d4d1f1ccf426307478a5.jpg",
+    "static/media/be3.jpg": "/proyectorestaurante/static/media/be3.31d3fe705e15db27e9b6.jpg",
+    "static/media/logo1.png": "/proyectorestaurante/static/media/logo1.edc8238f3dbf7fd44b79.png",
+    "static/media/pl4.jpeg": "/proyectorestaurante/static/media/pl4.e5d28d1ee4b9289027db.jpeg",
+    "static/media/pl3.jpg": "/proyectorestaurante/static/media/pl3.82f1df016991e7ef72aa.jpg",
+    "static/media/f1re.jpg": "/proyectorestaurante/static/media/f1re.90e4d7c656677fad9761.jpg",
+    "static/media/p2re.jpg": "/proyectorestaurante/static/media/p2re.3f57ad3dd043aec19aac.jpg",
+    "static/media/be1.jpg": "/proyectorestaurante/static/media/be1.5d457227271548a4a41c.jpg",
+    "static/media/pl5.jpg": "/proyectorestaurante/static/media/pl5.2812e247717e46e6f382.jpg",
+    "static/media/pl2.jpg": "/proyectorestaurante/static/media/pl2.779a21a857a48367f49b.jpg",
+    "static/media/p3re.jpg": "/proyectorestaurante/static/media/p3re.f9947ab2aca5461bfc65.jpg",
+    "static/media/re3.jpg": "/proyectorestaurante/static/media/re3.ec656b613771ee63c5ff.jpg",
+    "static/media/re1.webp": "/proyectorestaurante/static/media/re1.c0d8ac38fde5cb18b59e.webp",
+    "static/media/be2.jpg": "/proyectorestaurante/static/media/be2.6828840e205f4584101e.jpg",
+    "static/media/re6.jpg": "/proyectorestaurante/static/media/re6.a21a3a1b07ecb24292f1.jpg",
+    "static/media/re4.jpg": "/proyectorestaurante/static/media/re4.1b6a9dada000d859846a.jpg",
+    "static/media/re5.jpg": "/proyectorestaurante/static/media/re5.200629753a2cc3931e81.jpg",
+    "static/media/ped.png": "/proyectorestaurante/static/media/ped.71ec3e402acfa53b6eab.png",
+    "index.html": "/proyectorestaurante/index.html",
+    "main.41a7a8e0.css.map": "/proyectorestaurante/static/css/main.41a7a8e0.css.map",
+    "main.11aa692d.js.map": "/proyectorestaurante/static/js/main.11aa692d.js.map",
+    "787.520c3517.chunk.js.map": "/proyectorestaurante/static/js/787.520c3517.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a7a8e0.css",
+    "static/js/main.11aa692d.js"
+  ]
+}
